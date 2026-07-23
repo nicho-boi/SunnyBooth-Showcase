@@ -1,7 +1,7 @@
 # SunnyBooth
 
 <p align="center">
-  <img src="./assets/sunnybooth-logo.png" alt="SunnyBooth logo" width="520" />
+  <img src="./assets/sunnyboothhomepage.png" alt="SunnyBooth logo" width="520" />
 </p>
 
 SunnyBooth is a modern, interactive cat-themed online photobooth built for playful photo strips, polished templates, and quick browser-based sharing.
